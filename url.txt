@@ -1,1 +1,1 @@
-https://darwin-longest-seriously-feeding.trycloudflare.com
+https://api.trycloudflare.com
