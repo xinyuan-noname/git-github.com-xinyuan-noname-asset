@@ -1,1 +1,1 @@
-https://fixtures-fast-burner-boost.trycloudflare.com
+https://api.trycloudflare.com
