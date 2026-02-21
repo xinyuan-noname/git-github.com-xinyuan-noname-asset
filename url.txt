@@ -1,1 +1,1 @@
-https://jake-provides-rehab-hopkins.trycloudflare.com
+https://api.trycloudflare.com
