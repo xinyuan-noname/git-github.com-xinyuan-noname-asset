@@ -1,1 +1,1 @@
-https://raw-incomplete-surprise-savings.trycloudflare.com
+https://api.trycloudflare.com
