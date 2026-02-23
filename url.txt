@@ -1,1 +1,1 @@
-https://replication-supplied-include-flowers.trycloudflare.com
+https://api.trycloudflare.com
