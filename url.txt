@@ -1,1 +1,1 @@
-https://vampire-fixes-sections-tactics.trycloudflare.com
+https://api.trycloudflare.com
