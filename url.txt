@@ -1,1 +1,1 @@
-https://convicted-somewhat-sustainability-genre.trycloudflare.com
+https://api.trycloudflare.com
